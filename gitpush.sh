@@ -5,4 +5,4 @@ read -p "commit message: " str
 
 # update github
 git add .
-git commit -m str
+git commit -m $str
